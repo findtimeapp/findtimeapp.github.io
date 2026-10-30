@@ -1,6 +1,6 @@
-# findtime-web
+# findtimeapp.github.io
 
-Hjemmeside for appen Find Time på https://bjarkelarsen2.github.io/findtime-web/
+Hjemmeside for appen Find Time på https://findtimeapp.github.io/
 
 | Side | Dansk | Engelsk |
 |---|---|---|
